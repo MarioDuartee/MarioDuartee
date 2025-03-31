@@ -2,11 +2,7 @@
 
 ### <h1 style="font-size: 48px; font-weight: 800; color: #F9F9F9">Olá! Seja bem-vindo ao meu GitHub! 👋</h1>
 
-</br>
-</br></br>
-
-
-![MarioDuartee GitHub stats](https://github-readme-stats.vercel.app/api?username=MarioDuartee&show_icons=true&theme=merko)
+</br></br></br>
 
 </div>
 </br></br></br></br>
@@ -39,5 +35,7 @@ Se você tem um projeto bacana ou quer trocar uma ideia sobre desenvolvimento, b
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marioduartec/)
 <br/>
 <br/>
+![MarioDuartee GitHub stats](https://github-readme-stats.vercel.app/api?username=MarioDuartee&show_icons=true&theme=merko)
+
 
 </div>
