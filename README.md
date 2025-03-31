@@ -2,10 +2,18 @@
 
 ### <h1 style="font-size: 48px; font-weight: 800; color: #F9F9F9">Olá! Seja bem-vindo ao meu GitHub! 👋</h1>
 
-
-
 </div>
 
+<div style="text-align: center; color: #F9F9F9;; font-size: 25px; font-weight: 600">
+Me chamo Mário Duarte, sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou mergulhando cada vez mais no mundo do desenvolvimento front-end. Tenho um interesse especial por React e estou sempre buscando aprender e aprimorar minhas habilidades.
+
+Minha trajetória profissional começou bem diferente, trabalho como Uber há anos mas a tecnologia sempre foi algo que me atraiu. Agora, estou focado em consolidar minha transição para a área tech e construir projetos que façam a diferença.
+
+💡 O que você pode encontrar aqui?
+Projetos, experimentos e estudos que refletem minha evolução como dev. Ainda estou em construção, mas cada linha de código me leva um passo mais perto do meu objetivo.
+
+🚀 Buscando oportunidades!
+Se você tem um projeto bacana ou quer trocar uma ideia sobre desenvolvimento, bora conversar!
 
 <p style="color: #F9F9F9;; text-align: center; font-size: 25px; font-weight: 900">Tecnologias que uso no meu dia</p>
 
@@ -17,17 +25,6 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div></br></br></br>
-
-<div style="text-align: center; color: #F9F9F9;; font-size: 25px; font-weight: 600">
-Me chamo Mário Duarte, sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou mergulhando cada vez mais no mundo do desenvolvimento front-end. Tenho um interesse especial por React e estou sempre buscando aprender e aprimorar minhas habilidades.
-
-Minha trajetória profissional começou bem diferente—trabalho como Uber há anos—mas a tecnologia sempre foi algo que me atraiu. Agora, estou focado em consolidar minha transição para a área tech e construir projetos que façam a diferença.
-
-💡 O que você pode encontrar aqui?
-Projetos, experimentos e estudos que refletem minha evolução como dev. Ainda estou em construção, mas cada linha de código me leva um passo mais perto do meu objetivo.
-
-🚀 Buscando oportunidades!
-Se você tem um projeto bacana ou quer trocar uma ideia sobre desenvolvimento, bora conversar!
 
 📫 Onde me encontrar?
 <br>
