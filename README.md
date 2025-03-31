@@ -9,6 +9,7 @@ Me chamo Mário Duarte, sou formado em Análise e Desenvolvimento de Sistemas e 
 <br>
 Minha trajetória profissional começou bem diferente, trabalho como Uber há anos mas a tecnologia sempre foi algo que me atraiu. 
 <br> Agora, estou focado em consolidar minha transição para a área tech e construir projetos que façam a diferença.
+    <br>
 <br>
 
 💡 O que você pode encontrar aqui? <br>
