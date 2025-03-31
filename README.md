@@ -17,7 +17,7 @@ Projetos, experimentos e estudos que refletem minha evolução como dev. Ainda e
 
 🚀 Buscando oportunidades! <br>
 Se você tem um projeto bacana ou quer trocar uma ideia sobre desenvolvimento, bora conversar!
-
+<br><br>
 <p style="color: #F9F9F9;; text-align: center; font-size: 25px; font-weight: 900">Tecnologias que uso no meu dia</p>
 
 <div style="display: flex; justify-content: center; margin-top: 40px">
