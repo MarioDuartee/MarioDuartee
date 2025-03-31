@@ -6,13 +6,14 @@
 
 <div style="text-align: center; color: #F9F9F9;; font-size: 25px; font-weight: 600">
 Me chamo Mário Duarte, sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou mergulhando cada vez mais no mundo do desenvolvimento front-end. Tenho um interesse especial por React e estou sempre buscando aprender e aprimorar minhas habilidades.
+<br>
+Minha trajetória profissional começou bem diferente, trabalho como Uber há anos mas a tecnologia sempre foi algo que me atraiu. 
+<br> Agora, estou focado em consolidar minha transição para a área tech e construir projetos que façam a diferença.
 
-Minha trajetória profissional começou bem diferente, trabalho como Uber há anos mas a tecnologia sempre foi algo que me atraiu. Agora, estou focado em consolidar minha transição para a área tech e construir projetos que façam a diferença.
-
-💡 O que você pode encontrar aqui?
+💡 O que você pode encontrar aqui? <br>
 Projetos, experimentos e estudos que refletem minha evolução como dev. Ainda estou em construção, mas cada linha de código me leva um passo mais perto do meu objetivo.
 
-🚀 Buscando oportunidades!
+🚀 Buscando oportunidades! <br>
 Se você tem um projeto bacana ou quer trocar uma ideia sobre desenvolvimento, bora conversar!
 
 <p style="color: #F9F9F9;; text-align: center; font-size: 25px; font-weight: 900">Tecnologias que uso no meu dia</p>
