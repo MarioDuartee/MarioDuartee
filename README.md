@@ -9,6 +9,7 @@ Me chamo Mário Duarte, sou formado em Análise e Desenvolvimento de Sistemas e 
 <br>
 Minha trajetória profissional começou bem diferente, trabalho como Uber há anos mas a tecnologia sempre foi algo que me atraiu. 
 <br> Agora, estou focado em consolidar minha transição para a área tech e construir projetos que façam a diferença.
+<br>
 
 💡 O que você pode encontrar aqui? <br>
 Projetos, experimentos e estudos que refletem minha evolução como dev. Ainda estou em construção, mas cada linha de código me leva um passo mais perto do meu objetivo.
@@ -27,7 +28,7 @@ Se você tem um projeto bacana ou quer trocar uma ideia sobre desenvolvimento, b
     <img align="center" alt="html5" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div></br></br></br>
 
-📫 Onde me encontrar?
+📫 Onde me encontrar? <br>
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-duarte-3923431b8/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marioduartec/)
