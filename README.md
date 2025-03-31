@@ -2,10 +2,10 @@
 
 ### <h1 style="font-size: 48px; font-weight: 800; color: #F9F9F9">Olá! Seja bem-vindo ao meu GitHub! 👋</h1>
 
-</br></br></br>
+
 
 </div>
-</br></br></br></br>
+
 
 <p style="color: #F9F9F9;; text-align: center; font-size: 25px; font-weight: 900">Tecnologias que uso no meu dia</p>
 
